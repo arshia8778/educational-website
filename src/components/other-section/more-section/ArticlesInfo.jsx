@@ -1,7 +1,7 @@
 import React, { useEffect, useState } from "react";
 import { useParams } from "react-router-dom";
-import NotFound from "../../global/NotFound";
-import { getArticleInfo, getArticleOrgInfo } from "../../../services/CardsServices";
+// import NotFound from "../../global/NotFound";
+import { getArticleInfo } from "../../../services/CardsServices";
 import Spinner from "../../global/Spinner";
 
 const ArticlesOrgInfo = () => {

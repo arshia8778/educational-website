@@ -2,7 +2,7 @@ import React, { useContext, useEffect, useState } from "react";
 import { HiOutlineArrowTrendingDown } from "react-icons/hi2";
 import { useNavigate, useParams } from "react-router-dom";
 import { getCourseInfo } from "../../../services/CardsServices";
-import NotFound from "../../global/NotFound";
+// import NotFound from "../../global/NotFound";
 import Spinner from "../../global/Spinner";
 import { TiArrowLeftOutline } from "react-icons/ti";
 import { UserContext } from "../../../context/Authentication";
