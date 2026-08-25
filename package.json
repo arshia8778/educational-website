@@ -1,6 +1,7 @@
 {
   "name": "educational-web",
   "version": "0.1.0",
+  "homepage": "https://arshia8778.github.io/educational-website",
   "private": true,
   "dependencies": {
     "@fortawesome/free-solid-svg-icons": "^6.7.2",
